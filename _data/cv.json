@@ -1,23 +1,18 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Vera Andersson",
+    "email": "veraand@umd.edu",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://veraandersson.github.io",
+    "summary": "Ph.D. Candidate in Mathematical Statistics at the University of Maryland, College Park. Research interests include shuffled stochastic block models and graph matching.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
+      "city": "College Park",
       "countryCode": "US",
-      "region": ""
+      "region": "MD"
     },
     "profiles": [
-      {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
       {
         "network": "ORCID",
         "username": "",
@@ -30,123 +25,123 @@
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "company": "University of Maryland",
+      "position": "Graduate Research Assistant",
+      "startDate": "2025",
+      "endDate": "Present",
+      "summary": "Investigating node shuffling impacts on k-NN classification and Procrustes alignment; derived theoretical reflection thresholds for group separation."
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "institution": "University of Maryland, College Park",
+      "area": "Ph.D. in Mathematical Statistics",
+      "studyType": "Doctoral",
+      "startDate": "2023",
+      "endDate": "2028",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
+      "institution": "University of Maryland, College Park",
+      "area": "M.A. in Mathematical Statistics",
+      "studyType": "Master of Arts",
       "startDate": "",
-      "endDate": "2014",
+      "endDate": "2025",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
+      "institution": "Stockholm University",
+      "area": "M.Sc. in Mathematical Statistics",
+      "studyType": "Master of Science",
       "startDate": "",
-      "endDate": "2012",
+      "endDate": "2023",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "Stockholm University",
+      "area": "B.Sc. in Mathematical Statistics",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "2021",
       "gpa": null,
       "courses": []
     }
   ],
-  "skills": [],
-  "languages": [],
+  "skills": [
+    {
+      "name": "Programming",
+      "keywords": ["R", "Python", "MATLAB", "SQL", "HPC"]
+    },
+    {
+      "name": "Software",
+      "keywords": ["LaTeX", "GitHub", "Microsoft 365"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Swedish",
+      "fluency": "Native"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Limited"
+    },
+    {
+      "language": "Russian",
+      "fluency": "Elementary"
+    }
+  ],
   "interests": [],
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Asymptotically perfect seeded graph matching without edge correlation (and applications to inference)",
+      "publisher": "arXiv:2506.02825",
+      "releaseDate": "2025-06-01",
+      "website": "https://arxiv.org/abs/2506.02825",
+      "summary": "Preprint: Developed experimental framework and numerical simulations to validate vertex recovery for the Omnimatch algorithm."
     }
   ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
+  "presentations": [],
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
+      "course": "STAT410, STAT426, STAT400, MATH140/121",
+      "institution": "University of Maryland",
+      "date": "2023-2026",
+      "role": "Graduate Teaching Assistant",
+      "description": "Probability Theory, Data Science/ML, Applied Statistics, Calculus"
     },
     {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
+      "course": "Analysis and Linear Algebra",
+      "institution": "Stockholm University",
+      "date": "2021-2023",
+      "role": "Teaching Assistant",
+      "description": "Led exercise sessions and provided R code review via GitHub."
     }
   ],
   "portfolio": [
     {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
+      "name": "M.Sc. Thesis: Pruning of Complex Networks",
+      "category": "Research",
+      "date": "2023",
       "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "description": "Generalized centrality-based pruning methods for directed psychiatric networks."
+    },
+    {
+      "name": "B.Sc. Thesis: COVID-19 Optimization",
+      "category": "Research",
+      "date": "2021",
+      "url": "",
+      "description": "Optimized vaccination strategies using augmented SEIR models."
     }
   ]
 }
