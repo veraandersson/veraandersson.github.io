@@ -11,54 +11,48 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **Ph.D. in Mathematical Statistics**, University of Maryland, College Park, 2023–2028 (Expected)
+  * *Advanced to Candidacy: Oct 2025*
+* **M.A. in Mathematical Statistics**, University of Maryland, College Park, 2025
+* **M.Sc. in Mathematical Statistics**, Stockholm University, 2023
+* **B.Sc. in Mathematical Statistics**, Stockholm University, 2021
 
-Work experience
+Research Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Identifying Classification Thresholds in Shuffled Stochastic Block Modelss**, University of Maryland, 2025–Present
+  * Investigating node shuffling impacts on $k$-NN classification and Procrustes alignment; derived theoretical reflection thresholds for group separation.
+* **Asymptotically perfect seeded graph matching without edge correlation**, University of Maryland, 2025
+  * Developed experimental framework and numerical simulations to validate vertex recovery for the *Omnimatch* algorithm.
+* **M.Sc. Thesis: Pruning of Complex Networks**, Stockholm University, 2023
+  * Generalized centrality-based pruning methods for directed psychiatric networks to improve clinical interpretability.
+* **B.Sc. Thesis: COVID-19 Optimization**, Stockholm University, 2021
+  * Optimized vaccination strategies using augmented SEIR models to balance transmission reduction and fatality rates.
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
+* **Asymptotically perfect seeded graph matching without edge correlation (and applications to inference)** * Tong Qi, Vera Andersson, Peter Viechnicki, Vince Lyzinski. *Preprint: arXiv:2506.02825* (2025).
+
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+* **Graduate Teaching Assistant**, University of Maryland, 2023–Present
+  * Courses: Probability Theory (STAT410), Data Science/ML (STAT426), Applied Statistics (STAT400), Calculus (MATH140/121).
+* **Teaching Assistant**, Stockholm University, 2021–2023
+  * Led exercise sessions for Analysis and Linear Algebra; provided R code review via GitHub.
+* **Substitute Teacher**, Grillska Gymnasiet, 2018–2021
+
+Honors & Awards
 ======
-* Currently signed in to 43 different slack teams
+* **Hauptman Summer Fellowship**, University of Maryland, 2026
+* **Outstanding Graduate Assistant Award**, University of Maryland, AY 2025–2026
+* **Dean's Fellowship**, University of Maryland, 2023–2025
+
+Service and Leadership
+======
+* **GSCAMS Representative**, Graduate Student Committee (AMSC, MATH, STAT), UMD, 2025–Present
+* **Program Representative (STAT)**, Graduate Student Government (GSG), UMD, 2025–Present
+
+Skills
+======
+* **Programming:** R, Python, MATLAB, SQL, HPC
+* **Software:** LaTeX, GitHub, Microsoft 365
+* **Languages:** Swedish (Native), English (Fluent), Spanish (Limited), Russian (Elementary)
