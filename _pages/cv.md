@@ -20,12 +20,15 @@ Education
 Research Experience
 ------
 * **Identifying Classification Thresholds in Shuffled Stochastic Block Models**, University of Maryland, 2025–Present
+  * *Advisor: Vince Lyzinski, University of Maryland, College Park*
   * Investigating node shuffling impact on graph classification; derived theoretical reflection thresholds for group separation.
 * **Asymptotically perfect seeded graph matching without edge correlation**, University of Maryland, 2025
   * Developed experimental framework and numerical simulations to validate vertex recovery for the *Omnimatch* algorithm.
 * **M.Sc. Thesis: Pruning of Complex Networks**, Stockholm University, 2023
+  * *Advisors: Tom Britton, Stockholm University, and Lars Klintwall, Karolinska Institutet*
   * Proposed and generalized centrality-based pruning methods for complex psychiatric networks to improve clinical interpretability.
 * **B.Sc. Thesis: COVID-19 Optimization**, Stockholm University, 2021
+  * *Advisor: Pieter Trapman, Stockholm University*
   * Optimized vaccination strategies using augmented SEIR models to balance transmission reduction and fatality rates.
 
 Publications
