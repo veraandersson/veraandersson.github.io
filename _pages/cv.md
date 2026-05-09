@@ -19,25 +19,24 @@ Education
 
 Research Experience
 ======
-* **Identifying Classification Thresholds in Shuffled Stochastic Block Modelss**, University of Maryland, 2025–Present
-  * Investigating node shuffling impacts on $k$-NN classification and Procrustes alignment; derived theoretical reflection thresholds for group separation.
+* **Identifying Classification Thresholds in Shuffled Stochastic Block Models**, University of Maryland, 2025–Present
+  * Investigating node shuffling impact on graph classification; derived theoretical reflection thresholds for group separation.
 * **Asymptotically perfect seeded graph matching without edge correlation**, University of Maryland, 2025
   * Developed experimental framework and numerical simulations to validate vertex recovery for the *Omnimatch* algorithm.
 * **M.Sc. Thesis: Pruning of Complex Networks**, Stockholm University, 2023
-  * Generalized centrality-based pruning methods for directed psychiatric networks to improve clinical interpretability.
+  * Proposed and generalized centrality-based pruning methods for complex psychiatric networks to improve clinical interpretability.
 * **B.Sc. Thesis: COVID-19 Optimization**, Stockholm University, 2021
   * Optimized vaccination strategies using augmented SEIR models to balance transmission reduction and fatality rates.
 
 Publications
 ======
-* **Asymptotically perfect seeded graph matching without edge correlation (and applications to inference)** * Tong Qi, Vera Andersson, Peter Viechnicki, Vince Lyzinski. *Preprint: arXiv:2506.02825* (2025).
+* **Asymptotically perfect seeded graph matching without edge correlation (and applications to inference)** Tong Qi, Vera Andersson, Peter Viechnicki, Vince Lyzinski. *Preprint: arXiv:2506.02825* (2025).
 
 Teaching
 ======
 * **Graduate Teaching Assistant**, University of Maryland, 2023–Present
   * Courses: Probability Theory (STAT410), Data Science/ML (STAT426), Applied Statistics (STAT400), Calculus (MATH140/121).
 * **Teaching Assistant**, Stockholm University, 2021–2023
-  * Led exercise sessions for Analysis and Linear Algebra; provided R code review via GitHub.
 * **Substitute Teacher**, Grillska Gymnasiet, 2018–2021
 
 Honors & Awards
