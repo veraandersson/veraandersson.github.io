@@ -45,7 +45,7 @@ Honors & Awards
 * **Outstanding Graduate Assistant Award**, University of Maryland, AY 2025–2026
 * **Dean's Fellowship**, University of Maryland, 2023–2025
 
-Service and Leadership
+Service & Leadership
 ======
 * **GSCAMS Representative**, Graduate Student Committee (AMSC, MATH, STAT), UMD, 2025–Present
 * **Program Representative (STAT)**, Graduate Student Government (GSG), UMD, 2025–Present
