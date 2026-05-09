@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Vera Andersson"
 title_separator          : "-"
 name                     : &name "Vera Andersson"
-description              : &description "3rd year Ph.D. student in Mathematical Statistics at University of Maryland, College Park."   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "3rd year Ph.D. Candidate in Mathematical Statistics at University of Maryland, College Park."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://veraandersson.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Vera Andersson"
   pronouns         : # example: "she/her"  
-  bio              : "3rd year Ph.D. student in Mathematical Statistics at University of Maryland, College Park."
+  bio              : "3rd year Ph.D. Candidate in Mathematical Statistics at University of Maryland, College Park."
   location         : "College Park, MD"
   employer         : "University of Maryland"
   uri              : # URL
