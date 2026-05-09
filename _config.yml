@@ -23,7 +23,7 @@ repository               : "veraandersson/veraandersson.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpeg"
   name             : "Vera Andersson"
   pronouns         : # example: "she/her"  
   bio              : "3rd year Ph.D. Candidate in Mathematical Statistics at University of Maryland, College Park."
